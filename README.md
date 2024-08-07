@@ -5,4 +5,5 @@ These do not include the smaller coding projects used to practice coding and Dat
 - f28pb-assignment is a project I worked on alone to practice OOP, Data Structures and J-Unit testing. It is a software that reads and analysies text files
   and gives feedback on them depending on the commands give (provided from a text-file).
 - Wordle is a project I worked on alone to practice different coding concepts and attempting to make a comparison algoirthm using Data Structures to
-  achieve a lower worst-case and average time-complexity. It is a basic Wordle game software that plays on the console.
+  achieve a lower worst-case and average time-complexity. It is a basic Wordle game software that plays on the console. Unlike my previous projects, Wordle
+  was made on VS-Code, while the others were made in Eclipse.
