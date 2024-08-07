@@ -1,5 +1,5 @@
 Java coding projects I worked on in my 1st year of bachelor's degree at Heriot-Watt University Malaysia (2023-2024).
-These do not include the smaller coding projects used to practice coding and Data Structures and Algorithms.
+These do not include the smaller coding projects used to practice coding and Data Structures and Algorithms (these are found on my gitlab, linked in my "Nashawiyat" repsoitory).
 - f28pa-assignment is a project I worked on alone to practice basic coding and OOP concepts, as well as I/O. It consists
   of 2 questions, with each question being a separate program. Question1 being an Athele Analysis software, and Question2 being a theatre booking software.
 - f28pb-assignment is a project I worked on alone to practice OOP, Data Structures and J-Unit testing. It is a software that reads and analysies text files
